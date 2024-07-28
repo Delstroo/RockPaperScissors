@@ -5,3 +5,4 @@
 
 ## How to Use
 - Open with code editor of your choice, and run `python main.py`
+- Then put your choice of "rock", "paper", or "scissors".
