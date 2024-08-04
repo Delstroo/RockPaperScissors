@@ -1,4 +1,4 @@
-# RockPaperScissors
+# RockPaperScissorsBot
 
 ## How to install
 - Go to terminal and clone `https://github.com/Delstroo/RockPaperScissors.git`
