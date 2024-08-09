@@ -1,7 +1,7 @@
 # RockPaperScissorsBot
 
 ## How to install
-- Go to terminal `cd` into folder of your choice and clone `https://github.com/Delstroo/RockPaperScissors.git`
+- Go to terminal `cd` into folder of your choice and clone `https://github.com/Delstroo/RockPaperScissors.git`.
 
 ## How to Use
 - Open with code editor of your choice, and run `python main.py`
